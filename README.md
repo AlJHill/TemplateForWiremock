@@ -2,7 +2,7 @@
 
 This provides one example of how a wiremock service can be packaged for deployment as an azure web app.
 
-Whether you use a deployed app, a standalone instance running locally, or run an instance of wiremock directly in your code is a matter of choosing the best design for the purpose at hand.
+Whether you use a deployed app, a standalone instance running locally, or start an instance of wiremock directly from your code is a matter of choosing the best design for the purpose at hand.
 
 See https://github.com/WireMock-Net/WireMock.Net/wiki for an outline of the different use cases (unit tesing, standalone and deployed)
 
