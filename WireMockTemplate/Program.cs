@@ -1,6 +1,6 @@
 ﻿using WireMock.Settings;
 
-namespace WireMockTemplateDotNet8;
+namespace WireMockTemplate;
 
 public static class Program
 {

@@ -2,7 +2,7 @@
 using WireMock.Admin.Requests;
 using WireMock.Logging;
 
-namespace WireMockTemplateDotNet8;
+namespace WireMockTemplate;
 
 public class WireMockLogger : IWireMockLogger
 {

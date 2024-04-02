@@ -1,11 +1,9 @@
-﻿using Humanizer;
-using Microsoft.Extensions.Logging.Console;
-using Microsoft.Extensions.Options;
+﻿using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using WireMock.Server;
 using WireMock.Settings;
 
-namespace WireMockTemplateDotNet8;
+namespace WireMockTemplate;
 
 public class WireMockService : IHostedService
 {
