@@ -14,7 +14,7 @@ See https://github.com/WireMock-Net/WireMock.Net/wiki for an outline of the diff
 - A starting point for using more advanced features of wiremock.
 
 ## Other considerations
-- Consider attaching a storage container to the web app at the path `__admin\mappings` where the mappings are held, so that mock behavior can be changed in-flight 
+- Consider attaching a blob storage container to the web app at the path `__admin\mappings` where the mappings are held, so that mock behavior can be changed in-flight 
 
 ## Example mappings
 
