@@ -2,9 +2,9 @@
 
 This provides one example of how a WireMock service can be packaged for deployment.
 
-> For many testing needs WireMock can be used __inline__ directly from your test code, which is even more convenient than using a deployed instance. Whether you use a deployed app, a standalone instance running locally, or start an instance of wiremock directly from your code is a matter of choosing the best design for the purpose at hand. 
+> For many testing needs WireMock can be used __inline__ directly from your test code. Inline use is often more convenient, and the mock code can be kept closer to the test code than when using a deployed instance. Deciding whether to use a deployed instance, a standalone instance running locally, or start an instance of wiremock directly from your code is a matter of choosing the best test design for the purpose at hand. A deployed mock might only make sense for tests run against a deployed system or service.
 
-See https://github.com/WireMock-Net/WireMock.Net/wiki for an outline of the different use cases (unit tesing, standalone and deployed).
+See https://github.com/WireMock-Net/WireMock.Net/wiki for an outline of the different use cases (including 'unit tesing', standalone and deployed).
 
 ## Start up
 
